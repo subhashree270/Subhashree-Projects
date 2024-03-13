@@ -2,11 +2,10 @@ this is jenkins file
 code integration information is stored here
 ci & cd pipeline is most important thing in jenkins
 devops engineers are take care of this part
-<<<<<<< HEAD
 
 
 
 
-=======
->>>>>>> 047189113741c6cb9551a3c7f2923c68c6d6b3fa
+
+
 **jenkins is a important tool for developer...
